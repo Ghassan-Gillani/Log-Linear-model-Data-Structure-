@@ -11,12 +11,7 @@ using namespace std;
 
 
 
-/*
 
-
-					Actually,My project file has been losted by me...so i recovered it somehow roughly in last hour
-
-					Will complete it till my demo.
 
 */
 class BTreeNode;
